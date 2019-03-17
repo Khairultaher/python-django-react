@@ -13,7 +13,7 @@ secrets.txt
 env36/
 env37/
 __pycache__/
-env35
-env36
+env35/
+env36/
 *.pyc
 build
